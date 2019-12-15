@@ -7,6 +7,7 @@ and password : admin
 
 PLS NOTE THE PASSWORD IS STORED IN PLAIN TEXT.
 VEVER STORE PASSWORD IN PLAIN TEXT FOR PRODUCTION.
-For futher explaination and more free script visit https://www.naiajitguys.com.ng/
+For futher explaination and more free script visit https://www.naijaitguys.com.ng/
+Call +234 8156678190
 
 Thank ONE LOVE FROM THE NAIJA IT GUYS . UP NAIJA.
